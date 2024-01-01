@@ -1,4 +1,4 @@
-* Profile and Magazine Project 
+Profile and Magazine Project 
 
 1st day in #30NitesOfCode🥚 today I learned/advanced:
 

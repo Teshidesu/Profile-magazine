@@ -7,3 +7,5 @@ Profile and Magazine Project
 - Watch 1 video on how to use Git 💻
 - Create the repository using Git/Github 🧵
 - Create the frame of the web page design 🎀
+
+![image](https://github.com/Teshidesu/Profile-magazine/assets/118557327/a4dd5b28-2f7e-45ab-afe7-6e170714b59d)

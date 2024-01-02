@@ -28,3 +28,5 @@ The truth is that the goal is to make it as presentable and aesthetic as possibl
 - Review git and github documentation ⚙
 - Review Markdown documentation 🎫
 - Watch video how to make a website with html css and bootstrap 5 🎞
+
+![github-image](https://github.com/Teshidesu/Profile-magazine/assets/118557327/6f5dfea1-4f5c-4941-b5f8-c8829759b79d)

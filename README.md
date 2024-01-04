@@ -30,3 +30,17 @@ The truth is that the goal is to make it as presentable and aesthetic as possibl
 - Watch video how to make a website with html css and bootstrap 5 🎞
 
 ![github-image](https://github.com/Teshidesu/Profile-magazine/assets/118557327/6f5dfea1-4f5c-4941-b5f8-c8829759b79d)
+
+**3rd day in #30NitesOfCode🥚 today I learned/advanced:**
+
+- Find information on how to make some page adjustments with bootstrap🌼
+- Watch video detailing the use of Bootstrap in the code👗
+- Update commits in terminal🎈
+- Start with code preparation✨
+- Add a box for personal profile and a browser🩰
+- Search the bootstrap library for models to follow the code🍂
+
+This is how the first steps of the page remain today 03/01/24 is that I began to give it structure and a little style.
+
+![github-image](css/profile.PNG)
+

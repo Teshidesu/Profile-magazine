@@ -44,7 +44,7 @@ This is how the first steps of the page remain today 03/01/24 is that I began to
 
 ![github-image](css/profile.PNG)
 
-**4th day in #30NitesOfCode🥚 today I learned/advanced: 
+**4th day in #30NitesOfCode🥚 today I learned/advanced:** 
 
 - Adding an image I could hardly manage to corner the image.📚
 - I had to look for videos and help from a colleague to be able to adjust the spaces in the box.💾

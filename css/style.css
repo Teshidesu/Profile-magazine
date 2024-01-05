@@ -40,7 +40,10 @@
   }
 
   .card-body{
-    margin-top: 100px;
+    padding: auto;
+    display: flex;
+    box-sizing: content-box;
+    justify-content: center;
 
   }
   
@@ -74,3 +77,5 @@
   .card-header{
     background-color: #854f6c;
   }
+
+

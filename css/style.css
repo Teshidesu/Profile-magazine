@@ -1,7 +1,10 @@
 * {
+    margin: 0;
+    padding: 0; 
     box-sizing: border-box;
-  }
 
+
+  }
 
 .bg-dark {
     background-color: black !important;
@@ -10,72 +13,78 @@
     
 }
 
-.card {
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    transition: 0.3s;
-    width: 40%;
-    display: flex;
-    /* flex-direction: column; */
-    /* margin-top: 300px;
-    margin-left: 400px; */
-    justify-content: center;
-    /* align-items: center; */
-    /* margin: auto; */
-    /* margin-bottom: 100px; */
-    height: 500px;
-    width:  900px;
-    border: 1px solid grey;
-    background-color: #DFB6B2;
-  }
-  
-  .card:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-
-  }
-  
-  .card-title{
-    height: 10px;
-    margin-left: 10px;
-    
-  }
-
-  .card-body{
-    padding: auto;
-    display: flex;
-    box-sizing: content-box;
-    justify-content: center;
-
-  }
-  
-  #box{
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    /* height: 100%; */
-    /* max-height: 100vh; */
-    /* flex: 1; */
-  }
-
   body{
     min-height: 100vh;
     flex-direction: column;
     display: flex;
     background-color: bisque;
+    font-family: monocraft;
+
   }
 
-  .centerflex{
-    display: flex;
-    width: 100%;
-    justify-content: center;
-    height: 100%;
-    align-items: center;
-    align-self: center;
-    flex:1;
-    
-  }
+.card{
+  width: 500px;
+  overflow: hidden;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  background: #f4e7fb;
 
-  .card-header{
-    background-color: #854f6c;
-  }
+}
 
+header{
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+  position: relative;
 
+}
+
+header::before{
+  content: '';
+  position: absolute;
+
+}
+
+header img{
+  width: 150%;
+  height: 200%;
+}
+
+section{
+  padding: 10px;
+  overflow: hidden;
+  text-align: center;
+
+}
+
+section h2{
+  margin: .5em 0;
+
+}
+
+section p{
+  margin: .1em 0;
+}
+
+ul li {
+  list-style: none;
+  display: inline-block;
+  margin: .5em .2em;
+}
+
+ul li a {
+  text-decoration: none;
+  color: rgb(37, 235, 196);
+  background: #4e88aa;
+  width: 30px;
+  height: 30px;
+  line-height: 30px !important;
+  border-radius: 50%;
+  transition: all .3s ease-in-out;
+}
+
+ul li a:hover{
+  transform: scale(1.2);
+}

@@ -40,11 +40,9 @@
   }
 
   .card-body{
-    padding: auto;
     display: flex;
-    box-sizing: content-box;
-    justify-content: center;
-    grid-row: 1fr 1fr;
+    padding: 0;
+    max-height: 100%;
   }
   
   #box{
@@ -90,3 +88,20 @@
   align-items: center;
 }
 
+.card-body-left{
+  display: flex;
+  max-height: 100%;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.card-body-left > *{
+  max-height: 100%;
+}
+
+.grid-example{
+  flex:1;
+  display: grid;
+  grid-template-columns: 0.5fr 1fr;
+  column-gap: 10px;
+}
